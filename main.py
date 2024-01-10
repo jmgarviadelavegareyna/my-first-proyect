@@ -1,2 +1,5 @@
 print('My fist app')
-import pandas
+print('New functions')
+print('Load data from data/data.csv')
+
+
